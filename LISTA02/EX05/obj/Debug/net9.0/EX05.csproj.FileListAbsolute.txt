@@ -1,0 +1,14 @@
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\bin\Debug\net9.0\EX05.exe
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\bin\Debug\net9.0\EX05.deps.json
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\bin\Debug\net9.0\EX05.runtimeconfig.json
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\bin\Debug\net9.0\EX05.dll
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\bin\Debug\net9.0\EX05.pdb
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\EX05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\EX05.AssemblyInfoInputs.cache
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\EX05.AssemblyInfo.cs
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\EX05.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\EX05.dll
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\refint\EX05.dll
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\EX05.pdb
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\EX05.genruntimeconfig.cache
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX05\obj\Debug\net9.0\ref\EX05.dll

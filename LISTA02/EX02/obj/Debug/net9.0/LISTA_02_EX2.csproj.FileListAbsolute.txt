@@ -1,0 +1,14 @@
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\bin\Debug\net9.0\LISTA_02_EX2.exe
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\bin\Debug\net9.0\LISTA_02_EX2.deps.json
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\bin\Debug\net9.0\LISTA_02_EX2.runtimeconfig.json
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\bin\Debug\net9.0\LISTA_02_EX2.dll
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\bin\Debug\net9.0\LISTA_02_EX2.pdb
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\LISTA_02_EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\LISTA_02_EX2.AssemblyInfoInputs.cache
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\LISTA_02_EX2.AssemblyInfo.cs
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\LISTA_02_EX2.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\LISTA_02_EX2.dll
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\refint\LISTA_02_EX2.dll
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\LISTA_02_EX2.pdb
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\LISTA_02_EX2.genruntimeconfig.cache
+C:\Users\Carol\OneDrive\Documentos\EX_DE_POO\LISTA02\EX02\obj\Debug\net9.0\ref\LISTA_02_EX2.dll
